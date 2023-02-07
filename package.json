@@ -1,0 +1,27 @@
+{
+  "name": "prisma_tutorial",
+  "version": "1.0.0",
+  "description": "Learning Prisma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onticinc/prisma_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onticinc/prisma_tutorial/issues"
+  },
+  "homepage": "https://github.com/onticinc/prisma_tutorial#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.19",
+    "nodemon": "^2.0.20",
+    "prisma": "^4.9.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
